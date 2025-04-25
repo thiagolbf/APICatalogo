@@ -1,0 +1,37 @@
+## Compiled source #
+bin/
+obj/
+out/
+
+## User-specific files #
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results #
+*.dll
+*.exe
+*.app
+*.log
+
+## Visual Studio files #
+.vscode/
+.vs/
+*.dbmdl
+
+## ASP.NET specific #
+App_Data/
+*.mdf
+*.ldf
+
+## NuGet packages #
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+## Others #
+*.log
+*.cache
+*.tmp
